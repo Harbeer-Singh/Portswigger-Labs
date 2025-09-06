@@ -1,0 +1,54 @@
+✅ **PortSwigger Lab: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data**
+
+Lab Link: https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
+
+Difficulty: Easy
+Category: Web Security → SQL Injection
+
+📚 Description
+
+This lab focused on exploiting an SQL Injection vulnerability in a web application’s category parameter. The goal was to retrieve hidden (unreleased) product data by injecting a crafted payload that bypassed application restrictions. It demonstrated how improper input sanitization can lead to unauthorized data exposure.
+
+⚡ Key Takeaways
+
+What is SQL Injection?
+SQL Injection is a critical vulnerability that allows attackers to manipulate backend database queries by injecting malicious SQL code into input fields or URL parameters.
+
+Vulnerable Parameter:
+The category parameter was directly used in the SQL query without proper sanitization.
+
+Payload Strategy:
+Injected a payload such as ' OR '1'='1' -- to bypass the condition restricting results to released products.
+
+Impact:
+The injection allowed retrieval of all product data, including hidden/unreleased items that should not have been publicly accessible.
+
+🧱 Commands
+
+GET /filter?category=' OR 1=1-- HTTP/2
+
+📸 Screenshots
+
+![alt text](/SQLI/LAB-1/images/![alt](https://)image.png)
+
+📝 What I Learned
+
+The importance of parameterized queries to prevent injection attacks.
+
+How input sanitization alone isn’t enough without proper query handling.
+
+Practical usage of tools like Burp Suite to intercept and manipulate HTTP requests in a web security context.
+
+Real-world implications of SQL Injection vulnerabilities, such as data leakage and unauthorized access.
+
+🔐 Mitigation Techniques
+
+Use prepared statements with parameterized queries in backend applications.
+
+Apply strong input validation and sanitization at all user input points.
+
+Employ a Web Application Firewall (WAF) to detect and block common SQL Injection patterns.
+
+👤 Author
+
+Harbeer-Singh
