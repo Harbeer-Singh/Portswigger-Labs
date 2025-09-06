@@ -35,6 +35,12 @@ The attacker is granted unauthorized access to the application as a valid user, 
 
 ---
 
+## 🧱 Commands
+
+username=administrator'OR+1=1
+
+---
+
 ## 📸 Screenshots
 
 *![Screenshot 1 Alt Text](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SQL%20INJECTION/LAB-2/images/1.png)*
