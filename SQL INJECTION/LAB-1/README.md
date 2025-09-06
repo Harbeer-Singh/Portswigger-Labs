@@ -42,11 +42,10 @@ The injection allowed retrieval of all products, including hidden/unreleased ite
 
 ## 📸 Screenshots
 
-*![Screenshot 1 Alt Text](relative/path/to/screenshot1.png)*
+*![Screenshot 1 Alt Text](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SQL%20INJECTION/LAB-1/images/1.png)*
 
 *![Screenshot 1 Alt Text](relative/path/to/screenshot1.png)*
 
-*![Screenshot 1 Alt Text](relative/path/to/screenshot1.png)*
 
 ---
 
