@@ -1,2 +1,2 @@
 # Portswigger-Labs
-My solutions, notes, and write-ups for PortSwigger Web Security Academy labs
+My solutions, notes, and write-ups for SQL INJECTION PortSwigger Web Security Academy labs
