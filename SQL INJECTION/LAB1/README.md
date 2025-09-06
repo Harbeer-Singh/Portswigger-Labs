@@ -6,3 +6,4 @@ Key Concepts Covered
 •	Boolean-based SQL injection (OR 1=1)
 •	Exposing hidden data by altering query logic
 Hands-On Practical
+![Alt Text](LAB1/DSC03806_optimized_700.jpg)
