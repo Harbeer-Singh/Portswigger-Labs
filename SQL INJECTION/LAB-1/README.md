@@ -5,8 +5,6 @@
 
 **⚙️ Difficulty:** Easy  
 **📂 Category:** Web Security → SQL Injection  
-**📅 Completion Date:** (Add completion date here)
-
 ---
 
 ## 📚 Description
@@ -38,17 +36,17 @@ The injection allowed retrieval of all products, including hidden/unreleased ite
 
 ## 🧱 Commands
 
-*(Insert your commands here)*
+*GET /filter?category=' OR 1=1-- HTTP/2*
 
 ---
 
 ## 📸 Screenshots
 
-*(Insert Screenshot 1 here)*
+*![Screenshot 1 Alt Text](relative/path/to/screenshot1.png)*
 
-*(Insert Screenshot 2 here)*
+*![Screenshot 1 Alt Text](relative/path/to/screenshot1.png)*
 
-*(Insert Screenshot 3 here showing the hidden data)*
+*![Screenshot 1 Alt Text](relative/path/to/screenshot1.png)*
 
 ---
 
