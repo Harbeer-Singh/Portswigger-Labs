@@ -37,7 +37,8 @@ The attacker is granted unauthorized access to the application as a valid user, 
 
 ## 📸 Screenshots
 
-*(Insert your own screenshots showing the vulnerable login page, injected payloads, and successful login bypass result here.)*
+*![Screenshot 1 Alt Text](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SQL%20INJECTION/LAB-1/images/1.png)*
+*![Screenshot 1 Alt Text](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SQL%20INJECTION/LAB-1/images/1.png)*
 
 ---
 
