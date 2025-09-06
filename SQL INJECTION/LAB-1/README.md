@@ -1,8 +1,8 @@
-✅ PortSwigger Lab: SQL Injection Vulnerability in WHERE Clause Allowing Retrieval of Hidden Data
+✅ #PortSwigger Lab: SQL Injection Vulnerability in WHERE Clause Allowing Retrieval of Hidden Data#
 
-🔗 Lab Link: https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
+🔗## Lab Link: https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data##
 
-⚙️ Difficulty: Easy
+⚙️###fffff###
 📂 Category: Web Security → SQL Injection
 📅 Completion Date: (Add your completion date here)
 
