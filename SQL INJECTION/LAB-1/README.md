@@ -29,7 +29,7 @@ GET /filter?category=' OR 1=1-- HTTP/2
 
 📸 Screenshots
 
-![alt text](/SQLI/LAB-1/images/![alt](https://)image.png)
+![alt text](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SQL%20INJECTION/LAB-1/images/i.png)
 
 📝 What I Learned
 
