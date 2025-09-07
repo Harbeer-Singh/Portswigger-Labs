@@ -49,7 +49,8 @@ One challenge was identifying the exact parameter vulnerable to injection. Thoro
 
 - **Learning Resources**:  
   Refer to PortSwigger's [OS Command Injection documentation](https://portswigger.net/web-security/os-command-injection) for in-depth understanding and examples.
-##Command
+
+## Command
 **productId=1 %26+whoami+%26+&storeId=1**
 
 ## 📸 Screenshots
@@ -58,7 +59,5 @@ One challenge was identifying the exact parameter vulnerable to injection. Thoro
    ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/COMMAND%20INJECTION/LAB-1/images/1.png)
 
 2. **Modified Request**  
-   ![Modified Request](path/to/modified_request.png)
+   ![Modified Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/COMMAND%20INJECTION/LAB-1/images/2.png)
 
-3. **Response Output**  
-   ![Response Output](path/to/response_output.png)
