@@ -55,9 +55,9 @@ One challenge was identifying the exact parameter vulnerable to injection. Thoro
 
 ## 📸 Screenshots
 
-1. **Intercepted Request**  
+1. **Intercepted/MODIFIED Request**  
    ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/COMMAND%20INJECTION/LAB-1/images/1.png)
 
-2. **Modified Request**  
+2. **RESULT**  
    ![Modified Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/COMMAND%20INJECTION/LAB-1/images/2.png)
 
