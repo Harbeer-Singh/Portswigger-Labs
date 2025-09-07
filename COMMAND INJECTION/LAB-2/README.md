@@ -48,7 +48,7 @@ Blind OS command injection occurs when an application executes user-supplied inp
 - **Use of Burp Suite**: Leverage Burp Suite's Proxy and Repeater tools to intercept, modify, and resend requests efficiently.
 - **Learning Resources**: Refer to PortSwigger's [OS Command Injection documentation](https://portswigger.net/web-security/os-command-injection) for in-depth understanding and examples.
 
-### 3. Crafting the Payload
+### 3. Payload
 **%26ping+-c+10+127.0.0.1%26**
 
 ## 📸 Screenshots
