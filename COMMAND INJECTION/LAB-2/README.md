@@ -55,5 +55,5 @@ Blind OS command injection occurs when an application executes user-supplied inp
 
 1. **Request**: ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/COMMAND%20INJECTION/LAB-2/images/1.png)
 
-3. **Response**: ![Response Output](path/to/response_output.png)
+2. **Response**: ![Response Output](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/COMMAND%20INJECTION/LAB-2/images/2.png)
 
