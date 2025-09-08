@@ -56,6 +56,6 @@ SQL injection (SQLi) is a web security vulnerability that allows an attacker to 
  ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SQL%20INJECTION/LAB-3/images/1.png)
 
 2. **Result**  
- ![Number of Columns](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SQL%20INJECTION/LAB-3/images/1.png)
+ ![Number of Columns](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SQL%20INJECTION/LAB-3/images/2.png)
 
 
