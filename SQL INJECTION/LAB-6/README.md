@@ -74,10 +74,10 @@ Copy code
 1. **Payload**  
  ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SQL%20INJECTION/LAB-6/images/1.png)
 
-2. **Payload to Determine Number of Columns**  
+ 
  ![Number of Columns](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SQL%20INJECTION/LAB-6/images/2.png)
 
-3. **Payload to Identify Column Data Type**  
+
  ![Column Data Type](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SQL%20INJECTION/LAB-6/images/3.png)
 
 4. **Completed**  
