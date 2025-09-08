@@ -53,14 +53,9 @@ http://localhost:80%2523@stock.weliketoshop.net/admin/delete?username=carlos
 
 ## 📸 Screenshots
 
-1. **Intercepted Request**  
- ![Intercepted Request](path/to/intercepted_request.png)
+1. **Request**  
+ ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SSRF/LAB-4/images/1.png)
 
-2. **Modified Request**  
- ![Modified Request](path/to/modified_request.png)
+2. **Output**  
+ ![Modified Request]([path/to/modified_request.png](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SSRF/LAB-4/images/2.png))
 
-3. **Admin Interface**  
- ![Admin Interface](path/to/admin_interface.png)
-
-4. **Response Output**  
- ![Response Output](path/to/response_output.png)
