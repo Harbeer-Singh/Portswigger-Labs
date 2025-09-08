@@ -1,4 +1,4 @@
-# 🧪 PortSwigger Lab: Blind SQL Injection — Extracting Data Character by Character
+# 🧪 PortSwigger Lab: Blind SQL Injection — With Conditional errors
 
 ## 🎯 Lab Overview
 
