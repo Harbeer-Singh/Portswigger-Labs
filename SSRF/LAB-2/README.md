@@ -62,8 +62,8 @@ Server-Side Request Forgery (SSRF) is a web security vulnerability that allows a
 
 ## 📸 Screenshots
 
-1. **Intercepted Request**  
- ![Intercepted Request](path/to/intercepted_request.png)
+1. **Request**  
+ ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SSRF/LAB-2/images/1.png)
 
-4. **Response Output**  
- ![Response Output](path/to/response_output.png)
+4. **Output**  
+ ![Response Output](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SSRF/LAB-2/images/2.png)
