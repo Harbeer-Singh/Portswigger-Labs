@@ -56,16 +56,8 @@ Server-Side Request Forgery (SSRF) is a web security vulnerability that allows a
 - **Use of Burp Suite**: Leverage Burp Suite's Proxy and Repeater tools to intercept, modify, and resend requests efficiently.
 - **Learning Resources**: Refer to PortSwigger's [SSRF documentation](https://portswigger.net/web-security/ssrf) for in-depth understanding and examples.
 
-## 📸 Screenshots
+## 📸 Proof Of Completion
 
-1. **Intercepted Request**  
- ![Intercepted Request](path/to/intercepted_request.png)
+1. ****  
+ ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SSRF/LAB-1/images/1.png)
 
-2. **Modified Request**  
- ![Modified Request](path/to/modified_request.png)
-
-3. **Admin Interface**  
- ![Admin Interface](path/to/admin_interface.png)
-
-4. **Response Output**  
- ![Response Output](path/to/response_output.png)
