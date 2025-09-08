@@ -1,5 +1,3 @@
-http%3a//127.1/%2561dmin // double url encoded a = %2561
-http%3a//127.1/%2561dmin/delete?username=carlos
 # 🧪 PortSwigger Lab: SSRF with Blacklist-Based Input Filter
 
 ## 🎯 Lab Overview
@@ -69,7 +67,7 @@ http%3a//127.1/%2561dmin // double url encoded a = %2561
 ## 📸 Screenshots
 
 1. **Request**  
- ![Intercepted Request](path/to/intercepted_request.png)
+ ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SSRF/LAB-3/images/1.png)
 
 4. **Completed**  
- ![Response Output](path/to/response_output.png)
+ ![Response Output](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SSRF/LAB-3/images/2.png)
