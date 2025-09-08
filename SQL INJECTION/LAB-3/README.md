@@ -52,14 +52,10 @@ SQL injection (SQLi) is a web security vulnerability that allows an attacker to 
 
 ## 📸 Screenshots
 
-1. **Intercepted Request in Burp Suite**  
- ![Intercepted Request](path/to/intercepted_request.png)
+1. **Payload**  
+ ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SQL%20INJECTION/LAB-3/images/1.png)
 
-2. **Payload to Determine Number of Columns**  
- ![Number of Columns](path/to/number_of_columns.png)
+2. **Result**  
+ ![Number of Columns](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SQL%20INJECTION/LAB-3/images/1.png)
 
-3. **Payload to Identify Column Data Type**  
- ![Column Data Type](path/to/column_data_type.png)
 
-4. **Payload to Retrieve Database Version**  
- ![Database Version](path/to/database_version.png)
