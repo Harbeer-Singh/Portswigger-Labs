@@ -36,7 +36,9 @@ The `filename` parameter is used to specify the image file to be displayed. Howe
 
 ## 🧱 Commands Used
 
-<!-- Add the command you used here -->
+```http
+GET /image?filename=/etc/passwd HTTP/2
+```
 
 ---
 
