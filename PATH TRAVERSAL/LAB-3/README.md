@@ -44,13 +44,11 @@ GET /image?filename=....//....//....//etc/passwd HTTP/2
 
 📸 Screenshots
 
-Screenshot 1 – Intercepted Request in Burp Suite
+1. **Request**  
+   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/PATH%20TRAVERSAL/LAB-3/images/1.png)
 
-
-Screenshot 2 – Response Containing /etc/passwd Contents
-
-
-Replace the placeholder filenames with your actual screenshots.
+2. **Completed**  
+   ![Time Delay Response](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/PATH%20TRAVERSAL/LAB-3/images/2.png)
 
 ---
 
