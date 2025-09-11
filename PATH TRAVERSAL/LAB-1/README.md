@@ -49,17 +49,17 @@ GET /image?filename=../../../etc/passwd HTTP/2
 
 ### 📝 What I Learned
 
-✔ The critical importance of restricting file access based on user input.
-✔ How directory traversal sequences (../) can bypass directory protections.
-✔ The need for input sanitization and strict path validation in file handling functions.
-✔ Practical use of intercepting requests to modify parameters and test vulnerabilities.
+✔ The critical importance of restricting file access based on user input.               
+✔ How directory traversal sequences (../) can bypass directory protections.                    
+✔ The need for input sanitization and strict path validation in file handling functions.             
+✔ Practical use of intercepting requests to modify parameters and test vulnerabilities.                      
 
 ### 🔐 Mitigation Techniques
 
-✔ Validate and sanitize user-supplied input thoroughly before using it to access files.
-✔ Use fixed directories or map file paths internally rather than trusting user-provided paths.
-✔ Implement strict checks to prevent traversal sequences in file paths.
-✔ Deploy a Web Application Firewall (WAF) to block common path traversal patterns.
-
+✔ Validate and sanitize user-supplied input thoroughly before using it to access files.             
+✔ Use fixed directories or map file paths internally rather than trusting user-provided paths.                 
+✔ Implement strict checks to prevent traversal sequences in file paths.                             
+✔ Deploy a Web Application Firewall (WAF) to block common path traversal patterns.                  
+                  
 ### 👤 Author
 Harbeer-Singh
