@@ -60,6 +60,7 @@ GET /image?filename=../../../etc/passwd HTTP/2
 ✔ Use fixed directories or map file paths internally rather than trusting user-provided paths.                 
 ✔ Implement strict checks to prevent traversal sequences in file paths.                             
 ✔ Deploy a Web Application Firewall (WAF) to block common path traversal patterns.                  
+
 ---
                   
 ### 👤 Author
