@@ -39,8 +39,14 @@ The `filename` parameter was used directly by the server to access files, withou
 GET /image?filename=../../../etc/passwd HTTP/2
 ```
 📸 Screenshots
-https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/PATH%20TRAVERSAL/LAB-1/images/1.png
-https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/PATH%20TRAVERSAL/LAB-1/images/2.png
+
+1. **Request**  
+   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/PATH%20TRAVERSAL/LAB-1/images/1.png)
+
+2. **Completed**  
+   ![Time Delay Response](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/PATH%20TRAVERSAL/LAB-1/images/2.png)
+   
+
 ### 📝 What I Learned
 
 ✔ The critical importance of restricting file access based on user input.
