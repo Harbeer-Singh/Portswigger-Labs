@@ -57,5 +57,5 @@ http://localhost:80%2523@stock.weliketoshop.net/admin/delete?username=carlos
  ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SSRF/LAB-4/images/1.png)
 
 2. **Output**  
- ![Modified Request]([path/to/modified_request.png](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SSRF/LAB-4/images/2.png))
+ ![Modified Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/SSRF/LAB-4/images/2.png)
 
