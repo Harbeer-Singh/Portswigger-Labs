@@ -42,13 +42,11 @@ The `filename` parameter is used to specify the image file to be displayed. Howe
 
 ## 📸 Screenshots
 
-**Screenshot 1 – Intercepted Request in Burp Suite**  
-![Screenshot 1](./screenshot1.png)
+1. **Request**  
+   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/PATH%20TRAVERSAL/LAB-2/images/1.png)
 
-**Screenshot 2 – Response Containing `/etc/passwd` Contents**  
-![Screenshot 2](./screenshot2.png)
-
-> *Replace the placeholder filenames with your actual screenshots.*
+2. **Completed**  
+   ![Time Delay Response](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/PATH%20TRAVERSAL/LAB-2/images/2.png)
 
 ---
 
