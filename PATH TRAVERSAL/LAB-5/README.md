@@ -79,4 +79,4 @@ GET /image?filename=/var/www/images/../../../../../../../etc/passwd HTTP/2
 ## 👤 Author
 
 Harbeer-Singh
-```
+
