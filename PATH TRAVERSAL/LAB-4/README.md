@@ -48,10 +48,10 @@ The `filename` parameter is processed by multiple decoding steps, allowing doubl
 ## 📸 Screenshots
 
 **Request**  
-![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/edit/main/PATH%20TRAVERSAL/LAB-4/images/1.png)
+![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/PATH%20TRAVERSAL/LAB-4/images/1.png)
 
 **Completed**  
-![Response](https://github.com/Harbeer-Singh/Portswigger-Labs/edit/main/PATH%20TRAVERSAL/LAB-4/images/12.png)
+![Response](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/PATH%20TRAVERSAL/LAB-4/images/2.png)
 
 
 
