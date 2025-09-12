@@ -5,7 +5,7 @@
 **🔗 Lab Link:**  
 [https://portswigger.net/web-security/file-path-traversal/lab-validate-start-of-path](https://portswigger.net/web-security/file-path-traversal/lab-validate-start-of-path)
 
-**⚙️ Difficulty:** Easy  
+**⚙️ Difficulty:** PRACTITIONER   
 **📂 Category:** Web Security → File Path Traversal
 
 ---
