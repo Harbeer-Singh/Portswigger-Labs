@@ -3,7 +3,7 @@
 **🔗 Lab Link:**  
 [https://portswigger.net/web-security/file-path-traversal/lab-sequences-stripped-non-recursively](https://portswigger.net/web-security/file-path-traversal/lab-sequences-stripped-non-recursively)
 
-**⚙️ Difficulty:** Easy  
+**⚙️ Difficulty:** PRACTITIONER   
 **📂 Category:** Web Security → File Path Traversal
 
 ---
