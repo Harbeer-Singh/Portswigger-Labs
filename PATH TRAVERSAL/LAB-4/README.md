@@ -3,7 +3,7 @@
 **🔗 Lab Link:**  
 [https://portswigger.net/web-security/file-path-traversal/lab-superfluous-url-decode](https://portswigger.net/web-security/file-path-traversal/lab-superfluous-url-decode)
 
-**⚙️ Difficulty:** Easy  
+**⚙️ Difficulty:** PRACTITIONER   
 **📂 Category:** Web Security → File Path Traversal
 
 ---
@@ -78,4 +78,3 @@ GET /image?filename=%252E%252E%252F%252E%252E%252F%252E%252E%252Fetc%252Fpasswd 
 ## 👤 Author
 
 Harbeer-Singh
-```
