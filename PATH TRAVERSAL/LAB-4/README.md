@@ -43,27 +43,30 @@ GET /image?filename=....//....//....//etc/passwd HTTP/2
 ---
 
 ###📸 Screenshots
-Screenshot 1 – Intercepted Request in Burp Suite
+1. **Request**  
+   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/PATH%20TRAVERSAL/LAB-4/images/1.png)
 
-Screenshot 2 – Response Containing /etc/passwd Contents
+2. **Completed**  
+   ![Time Delay Response](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/PATH%20TRAVERSAL/LAB-4/images/2.png)
+
 
 Replace the placeholder filenames with your actual screenshots.
 
 ---
 
 ###📝 What I Learned
-✔ The importance of properly sanitizing user inputs to prevent path traversal vulnerabilities.
-✔ How incomplete sanitization can lead to security vulnerabilities.
-✔ Practical experience with using Burp Suite to intercept and modify HTTP requests to exploit vulnerabilities.
-✔ The potential risks associated with information disclosure through improper handling of file paths.
+✔ The importance of properly sanitizing user inputs to prevent path traversal vulnerabilities.                                 
+✔ How incomplete sanitization can lead to security vulnerabilities.                             
+✔ Practical experience with using Burp Suite to intercept and modify HTTP requests to exploit vulnerabilities.                       
+✔ The potential risks associated with information disclosure through improper handling of file paths.                       
 
 ---
 
 ###🔐 Mitigation Techniques
-✔ Input Validation: Ensure that user-supplied file paths are validated against a whitelist of allowed files or directories.
-✔ Sanitization: Remove or encode special characters that could be used for path traversal.
-✔ Use of Safe APIs: Utilize secure functions that do not allow direct manipulation of file paths.
-✔ Least Privilege: Run applications with the minimum necessary permissions to limit access to sensitive files.
+✔ Input Validation: Ensure that user-supplied file paths are validated against a whitelist of allowed files or directories.                                
+✔ Sanitization: Remove or encode special characters that could be used for path traversal.                            
+✔ Use of Safe APIs: Utilize secure functions that do not allow direct manipulation of file paths.                                        
+✔ Least Privilege: Run applications with the minimum necessary permissions to limit access to sensitive files.                                    
 
 ---
 
