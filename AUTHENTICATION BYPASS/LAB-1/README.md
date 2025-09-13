@@ -79,22 +79,22 @@ Username enumeration is when an attacker can determine whether a username/accoun
 
 ### 📝 What I Learned
 
-✔ Small textual or structural differences in responses can be powerful signals to enumerate accounts.
-✔ Always test multiple vectors: login, password-reset, registration, and any AJAX endpoints.
-✔ Use automated, rate-limited scripts or Burp Intruder with safe delays to enumerate multiple usernames ethically in lab environments.
-✔ Defensive coding should assume attackers will compare responses — do not leak existence information.
-✔ Combining enumeration results with password lists substantially increases attack success chance.
+✔ Small textual or structural differences in responses can be powerful signals to enumerate accounts.                   
+✔ Always test multiple vectors: login, password-reset, registration, and any AJAX endpoints.                         
+✔ Use automated, rate-limited scripts or Burp Intruder with safe delays to enumerate multiple usernames ethically in lab environments.   
+✔ Defensive coding should assume attackers will compare responses — do not leak existence information.                 
+✔ Combining enumeration results with password lists substantially increases attack success chance.                         
 
 ---
 
 ### 🔐 Mitigation Techniques
 
-✔ Return identical responses for both existent and non-existent accounts in authentication and recovery flows (e.g., “If the account exists, we will send instructions”).
-✔ Use same HTTP status codes and response shapes for both cases.
-✔ Avoid revealing timing differences — add uniform processing delays where appropriate (but avoid relying solely on timing).
-✔ Rate-limit or throttle account-recovery attempts and log suspicious activity.
-✔ Implement multi-factor authentication to reduce value of enumerated usernames.
-✔ Monitor for automated enumeration patterns and block abusive IPs or require CAPTCHA for suspicious flows.
+✔ Return identical responses for both existent and non-existent accounts in authentication and recovery flows (e.g., “If the account exists, we will send instructions”).                                                    
+✔ Use same HTTP status codes and response shapes for both cases.                    
+✔ Avoid revealing timing differences — add uniform processing delays where appropriate (but avoid relying solely on timing).                      
+✔ Rate-limit or throttle account-recovery attempts and log suspicious activity.                      
+✔ Implement multi-factor authentication to reduce value of enumerated usernames.                         
+✔ Monitor for automated enumeration patterns and block abusive IPs or require CAPTCHA for suspicious flows.                   
 
 ---
 
