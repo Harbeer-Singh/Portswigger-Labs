@@ -1,4 +1,4 @@
-### ✅ **PortSwigger Lab: Username enumeration via different responses**
+# ✅ **PortSwigger Lab: Username enumeration via different responses**
 
 ## 🔗 **Lab Link:**
 
