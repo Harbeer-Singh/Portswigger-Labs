@@ -1,4 +1,6 @@
-### ✅ **PortSwigger Lab: File Path Traversal – Simple Case**
+# ✅ **PortSwigger Lab: File Path Traversal – Simple Case**
+
+---
 
 ## 🔗 **Lab Link:**  
 [https://portswigger.net/web-security/file-path-traversal/lab-simple](https://portswigger.net/web-security/file-path-traversal/lab-simple)
