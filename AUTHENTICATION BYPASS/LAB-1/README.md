@@ -4,7 +4,7 @@
 
 [https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-different-responses](https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-different-responses)
 
-## ⚙️ **Difficulty:** Medium
+## ⚙️ **Difficulty:** APPRENTICE
 
 📂 **Category:** Authentication → Password-based → Username enumeration
 
@@ -61,19 +61,19 @@ Username enumeration is when an attacker can determine whether a username/accoun
 ### 📸 Screenshots (serially numbered — include these exact filenames in the repo)
 
 1. **Request (invalid username) — intercepted in Burp**
-   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/edit/main/AUTHENTICATION%20BYPASS/LAB-1/images/1.png)
+   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-1/images/1.png)
 
 2. **Response (invalid username) — completed response showing error message**
-  ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/edit/main/AUTHENTICATION%20BYPASS/LAB-1/images/1.png)
+  ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-1/images/2.png)
 
 3. **Request (valid username) — intercepted in Burp**
-   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/edit/main/AUTHENTICATION%20BYPASS/LAB-1/images/1.png)
+   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-1/images/3.png)
 
 4. **Response (valid username) — completed response showing success/next-steps message**
-   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/edit/main/AUTHENTICATION%20BYPASS/LAB-1/images/1.png)
+   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-1/images/4.png)
 
 5. **Burp Comparer / Response diff** — highlights the HTML/text differences used to confirm enumeration.
-   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/edit/main/AUTHENTICATION%20BYPASS/LAB-1/images/1.png)
+   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-1/images/5.png)
 
 ---
 
