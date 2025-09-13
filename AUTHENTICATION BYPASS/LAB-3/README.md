@@ -4,7 +4,7 @@
 
 [https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-response-timing](https://portswigger.net/web-security/authentication/password-based/lab-username-enumeration-via-response-timing)
 
-## ⚙️ **Difficulty:** Medium
+## ⚙️ **Difficulty:** PRACTITIONER
 
 📂 **Category:** Authentication → Password-based → Username enumeration
 
