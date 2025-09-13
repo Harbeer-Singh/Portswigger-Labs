@@ -63,9 +63,22 @@ A subtle, deterministic difference in the server's response for a specific usern
 
 ---
 
-### 📸 Screenshots (serially numbered — include these exact filenames in the repo)
+### 📸 Screenshots 
 
+1. **Simple list Attack (Username)**
+   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-2/images/1.png)
 
+2. **Response (Username Found)**
+  ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-2/images/2.png)
+
+3. **Simple list Attack (password)**
+   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-2/images/3.png)
+
+4. **Response (Password Found)**
+   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-2/images/4.png)
+
+5. **Complete**
+   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-2/images/5.png)
 
 ---
 
