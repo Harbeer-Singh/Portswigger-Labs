@@ -52,15 +52,15 @@ Username enumeration is when an attacker can determine whether a username/accoun
 
 1. Opened the login / password reset page and inspected the form.
 2. Identified where `username` (or `email`) was submitted and captured the request in Burp.
-3. Sent requests with a definitely-invalid username (e.g., `no-such-user-12345`) and recorded the full response body and status.
+3. Sent requests with a definitely-invalid username (e.g., `dghdhg`) and recorded the full response body and status.
 4. Sent requests with candidate usernames (e.g., `administrator`, `harbeer`, etc.) and compared responses for differences (text, elements, length, status, headers).
 5. Automated (carefully, rate-limited) the comparison where needed to enumerate multiple candidates.
 
 ---
 
-### 📸 Screenshots (serially numbered — include these exact filenames in the repo)
+### 📸 Screenshots 
 
-1. ****
+1. **Simple list Attack (Username)**
    ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-1/images/1.png)
 
 2. **Response (Username Found)**
