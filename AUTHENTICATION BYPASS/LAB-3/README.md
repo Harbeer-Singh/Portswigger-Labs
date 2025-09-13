@@ -59,13 +59,13 @@ This lab demonstrates **username enumeration using response timing**. The applic
 
 ### 📸 Screenshots (serially numbered — include these exact filenames in the repo)
 
-1. **Simple list Attack (Username)**
+1. **Pitchfork Attack (Username)**
    ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-3/images/1.png)
 
 2. **Response (Username Found)**
   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-3/images/2.png)
 
-3. **Simple list Attack (password)**
+3. **Pitchfork Attack (password)**
    ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-3/images/3.png)
 
 4. **Response (Password Found)**
