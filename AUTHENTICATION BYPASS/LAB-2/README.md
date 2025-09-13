@@ -84,19 +84,19 @@ A subtle, deterministic difference in the server's response for a specific usern
 
 ### 📝 What I Learned
 
-✔ Tiny, deterministic differences in error messages can completely undermine attempts to hide account existence.
-✔ Automated tools (Intruder with Grep - Extract or custom scripts that compare response bodies) are invaluable for detecting subtle signals.
-✔ Enumerate usernames first — it’s usually faster and more effective than trying a full credential cluster bomb.
-✔ After finding a valid username, targeted password attacks (with rate-limiting and monitoring awareness in mind) are more efficient.
+✔ Tiny, deterministic differences in error messages can completely undermine attempts to hide account existence.                    
+✔ Automated tools (Intruder with Grep - Extract or custom scripts that compare response bodies) are invaluable for detecting subtle signals.                  
+✔ Enumerate usernames first — it’s usually faster and more effective than trying a full credential cluster bomb.               
+✔ After finding a valid username, targeted password attacks (with rate-limiting and monitoring awareness in mind) are more efficient.   
 
 ---
 
 ### 🔐 Mitigation Techniques
 
-✔ Ensure authentication failure responses are identical for both existing and non-existing accounts (same text, HTTP status, and response structure).
-✔ Avoid accidental typos or differences between error messages — treat response text as sensitive.
-✔ Throttle and rate-limit login attempts and implement multi-factor authentication.
-✔ Monitor for automated enumeration patterns and use CAPTCHA or progressive delays for suspicious flows.
+✔ Ensure authentication failure responses are identical for both existing and non-existing accounts (same text, HTTP status, and response structure).                               
+✔ Avoid accidental typos or differences between error messages — treat response text as sensitive.                 
+✔ Throttle and rate-limit login attempts and implement multi-factor authentication.                         
+✔ Monitor for automated enumeration patterns and use CAPTCHA or progressive delays for suspicious flows.                 
 
 ---
 
