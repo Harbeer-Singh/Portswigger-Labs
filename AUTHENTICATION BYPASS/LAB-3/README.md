@@ -78,28 +78,28 @@ This lab demonstrates **username enumeration using response timing**. The applic
 
 ### 📝 What I Learned
 
-✔ Response-time side-channels are subtle but powerful — they can leak account existence even when textual responses are identical.
-✔ Combining timing analysis with header spoofing can bypass naive rate-limiting defenses.
-✔ Use Intruder’s timing columns and repeat tests to ensure signals are consistent and not noise.
-✔ Always perform these techniques only in authorized testing environments.
+✔ Response-time side-channels are subtle but powerful — they can leak account existence even when textual responses are identical.       
+✔ Combining timing analysis with header spoofing can bypass naive rate-limiting defenses.                                
+✔ Use Intruder’s timing columns and repeat tests to ensure signals are consistent and not noise.                        
+✔ Always perform these techniques only in authorized testing environments.                      
 
 ---
 
 ### 🔐 Mitigation Techniques
 
-✔ Ensure authentication code paths take a constant amount of time regardless of whether a username exists (constant-time comparisons and uniform control flow).
-✔ Do not rely solely on forwarding headers for IP-based protections; validate and control which proxies are trusted.
-✔ Implement robust rate-limiting and anomaly detection that can identify header-manipulation patterns.
-✔ Use multi-factor authentication to limit the impact of compromised credentials.
+✔ Ensure authentication code paths take a constant amount of time regardless of whether a username exists (constant-time comparisons and uniform control flow).                                        
+✔ Do not rely solely on forwarding headers for IP-based protections; validate and control which proxies are trusted.                     
+✔ Implement robust rate-limiting and anomaly detection that can identify header-manipulation patterns.                       
+✔ Use multi-factor authentication to limit the impact of compromised credentials.                      
 
 ---
 
 ### 🧾 Notes
 
-* The lab provides candidate username and password lists and the credentials `wiener:peter` as part of the lab guidance.
-* In this lab a Pitchfork-style Intruder attack combined with `X-Forwarded-For` spoofing was an efficient way to spot timing differences and then brute-force the password.
-* Always run timing tests multiple times to reduce false-positives due to network jitter.
-
+* The lab provides candidate username and password lists and the credentials `wiener:peter` as part of the lab guidance.            
+* In this lab a Pitchfork-style Intruder attack combined with `X-Forwarded-For` spoofing was an efficient way to spot timing differences and then brute-force the password.                         
+* Always run timing tests multiple times to reduce false-positives due to network jitter.                    
+ 
 ---
 
 ### 👤 Author
