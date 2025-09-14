@@ -4,7 +4,7 @@
 
 [https://portswigger.net/web-security/authentication/password-based/lab-broken-brute-force-protection-multiple-credentials-per-request](https://portswigger.net/web-security/authentication/password-based/lab-broken-brute-force-protection-multiple-credentials-per-request)
 
-## ⚙️ **Difficulty:** Medium
+## ⚙️ **Difficulty:** Expert
 
 📂 **Category:** Authentication → Password-based → Brute-force protections
 
