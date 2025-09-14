@@ -57,7 +57,11 @@ The login endpoint accepts JSON and will process an array of passwords submitted
 
 ### 📸 Screenshots (serially numbered — include these exact filenames in the repo)
 
+1. **Request**
+   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-6/images/1.png)
 
+2. **Completed**
+  ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-6/images/2.png)
 
 ---
 
