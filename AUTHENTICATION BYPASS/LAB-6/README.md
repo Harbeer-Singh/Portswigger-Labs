@@ -67,10 +67,10 @@ The login endpoint accepts JSON and will process an array of passwords submitted
 
 ### 📝 What I Learned
 
-✔ Servers may behave unexpectedly when given arrays where scalars are expected.
-✔ Input-parsing logic is a frequent source of subtle authentication bugs.
-✔ Brute-force protections must account for alternative request shapes (arrays, JSON, multipart, etc.).
-✔ Burp Repeater is useful for experimenting with request modifications to understand server behavior.
+✔ Servers may behave unexpectedly when given arrays where scalars are expected.        
+✔ Input-parsing logic is a frequent source of subtle authentication bugs.            
+✔ Brute-force protections must account for alternative request shapes (arrays, JSON, multipart, etc.).              
+✔ Burp Repeater is useful for experimenting with request modifications to understand server behavior.           
 
 ---
 
