@@ -61,10 +61,10 @@ Account-locking logic introduces a detectable state change. When a username reac
 1. **Simple list Attack (Username)**
    ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-5/images/1.png)
 
-2. **Setting up a macro**
+2. **Response(Username)**
   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-5/images/2.png)
 
-3. **Setting max requests limit**
+3. **Simple list Attack (Password)**
    ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-5/images/3.png)
 
 4. **Response (Password Found)**
