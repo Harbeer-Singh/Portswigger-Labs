@@ -4,7 +4,7 @@
 
 [https://portswigger.net/web-security/authentication/other-mechanisms/lab-brute-forcing-a-stay-logged-in-cookie](https://portswigger.net/web-security/authentication/other-mechanisms/lab-brute-forcing-a-stay-logged-in-cookie)
 
-## ⚙️ **Difficulty:** Apprentice
+## ⚙️ **Difficulty:** PRACTITIONER
 
 📂 **Category:** Authentication → Other mechanisms → Keeping users logged in
 
@@ -67,16 +67,6 @@ The application stores a “stay-logged-in” cookie that contains the username 
 6. Verified the pipeline by including the attacker’s own password and confirming a successful request loaded the attacker account page.
 7. Replaced the payload list with the lab’s candidate passwords, changed the prefix to `carlos:`, and re-ran the attack against `GET /my-account?id=carlos`.
 8. When the attack returned a response containing `Update email`, the payload that generated that cookie was the correct password-derived cookie for Carlos and the lab was solved.
-
----
-
-### 📸 Screenshots (serially numbered — include these exact filenames in the repo)
-
-1. **Simple List Attack**  
-   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/edit/main/AUTHENTICATION%20BYPASS/LAB-10/images/1.png)
-
-2. **Completed**  
-   ![Modified Request](https://github.com/Harbeer-Singh/Portswigger-Labs/edit/main/AUTHENTICATION%20BYPASS/LAB-10/images/2.png)
 
 ---
 
