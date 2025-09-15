@@ -59,7 +59,7 @@ The application fails to maintain a secure link between the initial authenticati
 ### 📸 Screenshots (serially numbered — include these exact filenames in the repo)
 
 1. **Completed**
-
+![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-7/images/1.png)
 
 ---
 
