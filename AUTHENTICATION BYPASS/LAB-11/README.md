@@ -4,7 +4,7 @@
 
 [https://portswigger.net/web-security/authentication/other-mechanisms/lab-offline-password-cracking](https://portswigger.net/web-security/authentication/other-mechanisms/lab-offline-password-cracking)
 
-## ⚙️ **Difficulty:** Apprentice
+## ⚙️ **Difficulty:** PRACTITIONER
 
 📂 **Category:** Authentication → Other mechanisms → Offline password cracking
 
