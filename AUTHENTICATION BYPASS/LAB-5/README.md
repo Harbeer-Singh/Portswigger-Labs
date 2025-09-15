@@ -59,19 +59,19 @@ Account-locking logic introduces a detectable state change. When a username reac
 ### 📸 Screenshots (serially numbered — include these exact filenames in the repo)
 
 1. **Simple list Attack (Username)**
-   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-4/images/1.png)
+   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-5/images/1.png)
 
 2. **Setting up a macro**
-  ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-4/images/2.png)
+  ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-5/images/2.png)
 
 3. **Setting max requests limit**
-   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-4/images/3.png)
+   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-5/images/3.png)
 
 4. **Response (Password Found)**
-   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-4/images/4.png)
+   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-5/images/4.png)
 
 5. **Complete**
-   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-4/images/5.png)
+   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/AUTHENTICATION%20BYPASS/LAB-5/images/5.png)
 
 ---
 
