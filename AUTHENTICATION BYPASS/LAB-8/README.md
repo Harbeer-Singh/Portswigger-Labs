@@ -4,7 +4,7 @@
 
 [https://portswigger.net/web-security/authentication/multi-factor/lab-2fa-simple-bypass](https://portswigger.net/web-security/authentication/multi-factor/lab-2fa-simple-bypass)
 
-## ⚙️ **Difficulty:** Apprentice
+## ⚙️ **Difficulty:** PRACTITIONER
 
 📂 **Category:** Authentication → Multi-factor → 2FA bypass
 
