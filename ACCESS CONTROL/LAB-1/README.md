@@ -79,7 +79,7 @@ An admin-only interface exists on a predictable path but is not protected by aut
 
 ✔ Implement strict server-side authentication and authorization checks for all admin endpoints.         
 ✔ Do not rely on obscurity (hidden paths) as a security measure; treat any endpoint as potentially discoverable.        
-✔ Avoid listing truly sensitive paths in `robots.txt` or similar public files; instead use robots rules only for benign crawl guidance.   
+✔ Avoid listing truly sensitive paths in `robots.txt` or similar public files; instead use robots rules only for benign crawl guidance.      
 ✔ Monitor access to admin endpoints and alert on unexpected requests.                 
 
 ---
