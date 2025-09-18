@@ -4,7 +4,7 @@
 
 [https://portswigger.net/web-security/access-control/lab-multi-step-process-with-no-access-control-on-one-step](https://portswigger.net/web-security/access-control/lab-multi-step-process-with-no-access-control-on-one-step)
 
-## ⚙️ **Difficulty:** Apprentice
+## ⚙️ **Difficulty:** Practitioner
 
 📂 **Category:** Access control → Multi-step workflows → Authorization bypass
 
