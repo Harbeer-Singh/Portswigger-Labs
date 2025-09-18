@@ -58,6 +58,7 @@ An admin-only interface exists on a predictable path but is not protected by aut
 ---
 
 ### 📸 Screenshots 
+
 1. **Request**
    ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-1/images/1.png)
 
