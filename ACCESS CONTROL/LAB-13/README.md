@@ -58,8 +58,8 @@ The server permits privileged operations when the incoming request contains an e
 ---
 
 ### 📸 Screenshots
-![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-3/images/13.png)
-![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-3/images/13.png)
+![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-13/images/1.png)
+![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-13/images/2.png)
 
 ---
 
