@@ -56,7 +56,7 @@ The application relies on a request parameter to decide the user's role instead 
 
 ---
 
-### 📸 Screenshots (serially numbered — include these exact filenames in the repo)
+### 📸 Screenshots 
 1. **Request**
    ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-3/images/1.png)
 
