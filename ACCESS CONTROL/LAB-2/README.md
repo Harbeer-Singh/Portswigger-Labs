@@ -58,7 +58,11 @@ An admin interface exists at a non-standard, unpredictable path. Although the pa
 ---
 
 ### 📸 Screenshots 
+1. **Request**
+   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-2/images/1.png)
 
+2. **Completed**
+  ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-2/images/2.png)
 
 ---
 
@@ -79,7 +83,7 @@ An admin interface exists at a non-standard, unpredictable path. Although the pa
  
 ---
 
-### 🧾 Notes
+### 🧾 Note
 
 * The lab solution involves discovering the unpredictable admin path and deleting `carlos` via the admin UI.
 * Only perform these actions in authorized lab environments; in production, ensure proper access controls are in place.
