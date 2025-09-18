@@ -60,7 +60,6 @@ The server trusts a client-supplied role value when processing profile updates. 
 ### 📸 Screenshots
 ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-4/images/1.png)
 ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-4/images/2.png)
-![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-4/images/3.png)
 
 ---
 
