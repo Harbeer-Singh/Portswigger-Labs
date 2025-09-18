@@ -61,7 +61,6 @@ The server constructs a redirect URL using a user-controlled `id` parameter and 
 
 ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-7/images/1.png)
 ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-7/images/2.png)
-![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-7/images/3.png)
 
 ---
 
