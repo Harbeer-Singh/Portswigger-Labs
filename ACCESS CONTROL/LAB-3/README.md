@@ -57,11 +57,10 @@ The application relies on a request parameter to decide the user's role instead 
 ---
 
 ### 📸 Screenshots 
-1. **Request**
-   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-3/images/1.png)
 
-2. **Completed**
-  ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-3/images/2.png)
+![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-3/images/1.png)
+![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-3/images/2.png)
+![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-3/images/3.png)
 
 ---
 
