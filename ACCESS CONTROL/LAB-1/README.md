@@ -59,10 +59,10 @@ An admin-only interface exists on a predictable path but is not protected by aut
 
 ### 📸 Screenshots (serially numbered — include these exact filenames in the repo)
 
-1. **Simple list Attack (Username)**
+1. **Request**
    ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-1/images/1.png)
 
-2. **Response (Username Found)**
+2. **Completed**
   ![Intercepted Request](https://github.com/Harbeer-Singh/Portswigger-Labs/blob/main/ACCESS%20CONTROL/LAB-1/images/2.png)
 
 ---
