@@ -4,7 +4,7 @@
 
 [https://portswigger.net/web-security/access-control/lab-referer-based-access-control](https://portswigger.net/web-security/access-control/lab-referer-based-access-control)
 
-## ⚙️ **Difficulty:** Apprentice
+## ⚙️ **Difficulty:** Practitioner
 
 📂 **Category:** Access control → Referer-based protections → Authorization bypass
 
